@@ -1,7 +1,7 @@
 # Web Scraper for Travel Times and Vehicle Counters from promet.si
 
 ## Overview
-This repository contains two web scrapers implemented using Selenium in Python. The scrapers are designed to extract travel times and vehicle count data from promet.si.
+This repository contains two web scrapers implemented using Selenium in Python. The scrapers are designed to extract travel times and vehicle count data from [promet.si](https://promet.si/en).
 
 ## Scrapers
 <b>1. Travel Times Scraper</b>: Collects travel time data from some routes in Slovenia.
