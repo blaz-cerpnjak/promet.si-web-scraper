@@ -4,12 +4,14 @@
 This repository contains two web scrapers implemented using Selenium in Python. The scrapers are designed to extract travel times and vehicle count data from promet.si.
 
 ## Scrapers
-- <b>Travel Times Scraper</b>: Collects travel time data from some routes in Slovenia.
+<b>1. Travel Times Scraper</b>: Collects travel time data from some routes in Slovenia.
 
 <img src="travel_times.png" alt="Travel Times" height="400">
 
 <br>
-- <b>Vehicle Counters Scraper</b>: Collects vehicle count data on highways in Slovenia. It can search locations and scroll to take all the data from dynamic table.
+<b>2. Vehicle Counters Scraper</b>: Collects vehicle count data on highways in Slovenia. It can search locations and scroll to take all the data from dynamic table.
+
+<br>
 
 <img src="vehicle_counters.png" alt="Vehicle Counters" height="400">
 
